@@ -1,6 +1,6 @@
 #
 # CentOS with ja_JP
-# kunitaya/centos.jp
+# kunitaya/centos
 #
 # 2017-04-24
 #   CentOS Linux 7.3.1611
