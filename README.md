@@ -1,4 +1,4 @@
-# dockerfile-centos.jp
+# dockerfile-centos
 Dockerfile for CentOS with ja_JP
 
 ### Environment
