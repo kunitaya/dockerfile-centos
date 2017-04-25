@@ -6,5 +6,5 @@ Dockerfile for CentOS with ja_JP
 
 ### Activation manner
 ```
-docker pull kunitaya/centos.jp
+docker pull kunitaya/centos
 ```
